@@ -115,8 +115,11 @@ Questions and bug reports: `uchihast [at] d.phys.nagoya-u.ac.jp`
 
 If pyNuD contributed to your analysis, please mention it in your Methods, for example:
 
-> HS-AFM images were processed and analyzed with pyNuD v2.11.0
+> HS-AFM images were processed and analyzed with pyNuD vX.Y.Z
 > (https://github.com/uchihast/pyNuD-installer).
+
+Replace `vX.Y.Z` with the version you actually used — it is shown in the pyNuD
+title bar and under **Help → About**.
 
 ## License
 
