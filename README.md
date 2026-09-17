@@ -89,14 +89,27 @@ To push the AFM frame currently shown in pyNuD to the Simulator (Live sync), loa
 [`SimulatorBridge.py`](https://github.com/uchihast/pyNuD-plugins/releases/latest/download/SimulatorBridge.py)
 plugin in pyNuD.
 
-## Documentation and support
+## Documentation
 
-The user manual, full release notes and a bilingual (English / Japanese) version of
-this page are on the D-Lab software page:
+The full documentation lives on the D-Lab software page and is available in both
+**English and Japanese** — use the language switch at the top of the page.
 
-→ **https://dlab-website-2026.vercel.app/software**
+| | |
+| --- | --- |
+| 📖 **User manual** | [dlab-website-2026.vercel.app/software?section=operation](https://dlab-website-2026.vercel.app/software?section=operation) |
+| 🛠 Installation guide | [?section=install](https://dlab-website-2026.vercel.app/software?section=install) |
+| 🧩 Plugin reference | [?section=plugins](https://dlab-website-2026.vercel.app/software?section=plugins) |
+| 📝 Version history | [?section=history](https://dlab-website-2026.vercel.app/software?section=history) |
+| ⬇ Downloads and overview | [/software](https://dlab-website-2026.vercel.app/software) |
+
+> [!NOTE]
+> The release notes attached to each GitHub release are written in Japanese.
+> The **Version history** page above carries the same notes in English.
+
+## Support
 
 Questions and bug reports: `uchihast [at] d.phys.nagoya-u.ac.jp`
+(or the bug report form at [?section=support](https://dlab-website-2026.vercel.app/software?section=support))
 
 ## Citing pyNuD
 
